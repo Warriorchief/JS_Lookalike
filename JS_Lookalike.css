@@ -1,0 +1,62 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+body{
+  background-color:midnightblue;
+}
+
+ul{
+  padding:0px 0px 0px 20px;
+}
+
+
+.purp {
+  color: purple;
+}
+
+#header{
+ width: 960px;
+ height: 50px;
+ background-color: red;
+ margin: 10px;
+ border-radius: 20px;
+ color: white;
+ align-content: left;
+ padding: 20px 0px 20px 20px;
+}
+
+#navigation{
+ background-color:teal;
+ height: 260px;
+ width: 160px;
+ margin: 10px;
+ border-radius: 20px;
+ color: white;
+ padding: 20px;
+}
+
+#main_content{
+ padding: 40px;
+ position: relative; left:220px; bottom: 310px;
+ height: 600px;
+ width: 680px;
+ margin: 10px;
+ background-color: black;
+ border-radius: 20px;
+ color:white;
+}
+
+
+#advertisement{
+ position: relative; bottom: 300px;
+ padding: 20px;
+ height: 50px;
+ border-radius: 20px;
+ margin: 10px;
+ width: 940px;
+ background-color: gray;
+ color: white;
+}
